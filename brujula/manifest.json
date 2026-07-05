@@ -1,0 +1,9 @@
+{
+  "id": "brujula",
+  "nombre": "Brújula",
+  "version": "1.0.0",
+  "descripcion": "Brújula en tiempo real usando el magnetómetro del dispositivo",
+  "categoria": "Orientación",
+  "autor": "Pixel Protocol",
+  "permisos": ["sensors"]
+}
