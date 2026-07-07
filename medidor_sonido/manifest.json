@@ -1,9 +1,0 @@
-{
-  "id": "medidor_sonido",
-  "nombre": "Medidor de Sonido",
-  "version": "1.0.0",
-  "descripcion": "Medidor de nivel de sonido en tiempo real usando el micrófono del dispositivo",
-  "categoria": "Análisis",
-  "autor": "Pixel Protocol",
-  "permisos": ["microphone"]
-}
