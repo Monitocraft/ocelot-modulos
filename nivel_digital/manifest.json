@@ -1,0 +1,15 @@
+{
+  "id": "nivel_digital",
+  "nombre": "Nivel Digital",
+  "descripcion": "Nivel digital de precisión usando los sensores del dispositivo.",
+  "version": "1.0.0",
+  "autor": "Ocelot",
+
+  "icono": "icon.png",
+
+  "orientacion": "portrait",
+
+  "permisos": [
+    "orientation"
+  ]
+}
