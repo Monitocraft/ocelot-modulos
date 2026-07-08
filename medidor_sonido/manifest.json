@@ -1,0 +1,15 @@
+{
+  "id": "sonido",
+  "nombre": "Medidor de sonido",
+  "descripcion": "Nivel de ruido en tiempo real usando el micrófono del dispositivo.",
+  "version": "1.0.0",
+  "autor": "Ocelot",
+
+  "icono": "icon.png",
+
+  "orientacion": "portrait",
+
+  "permisos": [
+    "microphone"
+  ]
+}
